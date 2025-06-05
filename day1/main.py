@@ -8,7 +8,7 @@
 # Charge per unit 
 # Persons living in room/flat
 
-## Output
+## Output=
 # Total amount you've to pay is
 
 rent = int(input("Enter your hostel/flat rent = "))
